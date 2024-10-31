@@ -94,16 +94,10 @@ for movie in horror_movies:
     if movie == "Chucky":
         break
     print(movie)
-if movie == "Chucky":
-    movie == "Terrifier"
-    print(movie)
 
 
-
-
-
-
-
+horror_movies[1] = "Terrifier"
+print(horror_movies)
 
 
 
